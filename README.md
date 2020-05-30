@@ -41,7 +41,7 @@ I have tackled this problem from a Time Series perspective and tried different m
 **Team Leads (Contacts) : Rana Muhammad Sarfraz (ranasarfrazmc232@gmail.com)**
 
 ## Important Note:
-I have achieved the required result(accuracy with RMSE & Clark Error Grid), but I believe I can improve this model a lot if I got enough time.
+I have achieved the required result(accuracy with RMSE & Clark Error Grid), but I can improve this more efficiently.
 
 ## Contact
 * You can contact me at mc170402986@vu.edu.pk OR ranasarfrazmc232@gmail.com  
